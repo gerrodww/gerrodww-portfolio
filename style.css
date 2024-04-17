@@ -170,7 +170,6 @@ header.p-section {
 
 .stars {
   background-image: url('./img/stars.jpg');
-  background-size: cover;
   background-repeat: no-repeat;
 }
 
