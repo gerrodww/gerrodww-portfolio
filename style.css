@@ -1,5 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
 
+body {
+  background-color: #d2d2d2;
+}
+
+.bg-light {
+  background-color: #dadada;
+}
+
+.bg-white {
+  background-color: #dedede;
+}
+
 h1, .h1,
 h2, .h2,
 h3, .h3,
@@ -170,6 +182,7 @@ header.p-section {
 
 .stars {
   background-image: url('./img/stars.jpg');
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
@@ -179,12 +192,4 @@ header.p-section {
 
 .bi-github, .bi-linkedin {
   color: #8a8a8a;
-}
-
-.bg-light {
-  background-color: #d2d2d2;
-}
-
-.bg-white {
-  background-color: #d2d2d2;
 }
