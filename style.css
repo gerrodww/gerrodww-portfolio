@@ -60,7 +60,7 @@ sup, .sup {
 }
 
 .card {
-  border-radius: 10px;
+  border-radius: .25rem;
 }
 
 .card-footer {
@@ -152,4 +152,18 @@ header.p-section {
   left: -0.05em;
   padding: 0 0.25em;
   bottom: 0.2em;
+}
+
+
+.btn-primary {
+  background-color: #535046a4;
+  border-color: #535046a4;
+}
+
+.bg-light {
+  background-color: rgb(204, 204, 204);
+}
+
+.bg-dark {
+  background-image: url('./img/stars.jpg');
 }
