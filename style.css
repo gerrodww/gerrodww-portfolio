@@ -178,8 +178,7 @@ header.p-section {
   font-weight: bolder;
 }
 
-.icon-me {
-  /* background-color: #8a8a8a; */
+.bi-github, .bi-linkedin {
   color: #8a8a8a;
   fill: #105a16;
 }
