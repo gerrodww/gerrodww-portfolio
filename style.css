@@ -161,9 +161,11 @@ header.p-section {
 }
 
 .bg-light {
-  background-color: rgb(204, 204, 204);
+  background-color: rgb(190, 20, 20);
+  /* background-color: rgb(204, 204, 204); */
 }
 
 .bg-dark {
-  background-image: url('./img/stars.jpg');
+  /* background-image: url('./img/stars.jpg'); */
+  background-color: aqua;
 }
