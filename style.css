@@ -59,6 +59,10 @@ sup, .sup {
   margin-top: -180px;
 }
 
+.card {
+  border-radius: 10px;
+}
+
 .card-footer {
   background-color: white;
   padding: 1rem 1rem;
