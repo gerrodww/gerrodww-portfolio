@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap'); */
 
 h1, .h1,
 h2, .h2,
@@ -88,6 +88,7 @@ header.p-section {
 
 .p-section {
   padding: 100px 0px;
+  background-color: #707070;
 }
 
 .p-section-lg {
@@ -118,6 +119,11 @@ header.p-section {
 }
 
 .btn-primary:hover {
+  background-color: #127d1b;
+  border-color: #127d1b;
+}
+
+.btn-primary::after {
   background-color: #127d1b;
   border-color: #127d1b;
 }
@@ -153,7 +159,7 @@ header.p-section {
 .marker-highlight:before {
   content: "";
   /* background-color: #03472d; */
-  background-color: #105a1684;
+  background-color: #33a23c84;
   width: 102%;
   height: 0.2em;
   position: absolute;
