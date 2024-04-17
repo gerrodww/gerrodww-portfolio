@@ -122,6 +122,11 @@ header.p-section {
   border-color: #127d1b;
 }
 
+.btn-primary::after {
+  background-color: #127d1b;
+  border-color: #127d1b;
+}
+
 .btn-group-lg>.btn, .btn-lg {
   padding: .75rem 2rem;
 }
@@ -163,6 +168,6 @@ header.p-section {
   bottom: 0.2em;
 }
 
-#contact {
+.stars {
   background-image: url('./img/stars.jpg');
 }
