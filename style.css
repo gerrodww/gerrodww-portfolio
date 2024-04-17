@@ -1,21 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
 
-body {
-  background-color: #8a8a8a;
-}
-
-.bg-white {
-  background-color: #8a8a8a;
-}
-
-.bg-dark {
-  background-color: #8a8a8a;
-}
-
-.bg-light {
-  background-color: #8a8a8a;
-}
-
 h1, .h1,
 h2, .h2,
 h3, .h3,
@@ -168,7 +152,6 @@ header.p-section {
 
 .marker-highlight:before {
   content: "";
-  /* background-color: #03472d; */
   background-color: #33a23c84;
   width: 102%;
   height: 0.2em;
