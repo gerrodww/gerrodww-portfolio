@@ -117,7 +117,7 @@ header.p-section {
   border-color: #105a16;
 }
 
-.btn-primary::after {
+.btn-primary:hover {
   background-color: #127d1b;
   border-color: #127d1b;
 }
