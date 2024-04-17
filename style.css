@@ -170,8 +170,14 @@ header.p-section {
 
 .stars {
   background-image: url('./img/stars.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .boulder {
   font-weight: bolder;
+}
+
+.icon-me {
+  color: #8a8a8a;
 }
