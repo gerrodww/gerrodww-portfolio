@@ -170,12 +170,12 @@ header.p-section {
 
 .stars {
   background-image: url('./img/stars.jpg');
-  background-size: auto;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
 .boulder {
-  font-weight: bolder;
+  font-weight: bold;
 }
 
 .bi-github, .bi-linkedin {
