@@ -171,3 +171,7 @@ header.p-section {
 .stars {
   background-image: url('./img/stars.jpg');
 }
+
+.boulder {
+  font-weight: bolder;
+}
